@@ -1,2 +1,2 @@
 # StockAnalysis
-Nasdag and Borsa Istanbul Analizi
+Nasdaq and Borsa Istanbul Analizi
